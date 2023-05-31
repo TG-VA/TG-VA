@@ -11,7 +11,7 @@ Hi, I am Tristán Venegas! 👋
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
-<img  align="center" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TG-VA&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="TG-VA's Stats"/> <img align="center" width="" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TG-VA&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="TG-VA's Stats"/>
+<img   width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TG-VA&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="TG-VA's Stats"/> <img  width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TG-VA&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="TG-VA's Stats"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TG-VA&bg_color=242938&color=26daa1&line=6683c3&point=26d09b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
