@@ -7,7 +7,7 @@ Hi, I am Tristán Venegas!  <img height="40" src="https://cdn3.emoji.gg/emojis/6
 </p>
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend technologies 😅
+- 📚 I'm currently studying software development engineering at [Universidad Tecmilenio](https://www.tecmilenio.mx/es "Universidad Tecmilenio").
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>
 
