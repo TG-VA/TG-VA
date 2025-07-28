@@ -1,4 +1,4 @@
-[![Banner TG-VA](https://i.imgur.com/dWmroUs.png "Banner TG-VA")](https://i.imgur.com/dWmroUs.png "Banner TG-VA")
+
 
 <h1 align="center">
 Hi, I am Tristán Venegas!  <img height="40" src="https://cdn3.emoji.gg/emojis/6174-w98-computer.png">
